@@ -2,13 +2,13 @@
 
 ### This is a web based application developed for a business named PRIXIMA.
 
-###  This web based bsiness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+####  This web based bsiness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 ### Project Link - https://vishalmanikpuri.github.io/microsoft-future-ready-talent1/
 
 ### Demo Video - https://youtu.be/nhHbRbNQiGA
 
-## Features and Functionalities
+# Features and Functionalities
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
