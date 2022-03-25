@@ -1,4 +1,4 @@
-# Microsoft-future-ready-talent-internship
+# Microsoft-future-ready-talent-internship :star2:
 
 ### This is a web based application developed for a business named PRIXIMA.
 
@@ -6,9 +6,15 @@
 
 ### Project Link - https://vishalmanikpuri.github.io/microsoft-future-ready-talent1/
 
-### Demo Video - 
+### Demo Video - https://youtu.be/nhHbRbNQiGA
 
 ## Features and Functionalities
+
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About Us, Contact, Blog, Team Member pages etc.
+
 
 ### Web Technologies used: HTML, CSS, JS, Bootstrap
 
