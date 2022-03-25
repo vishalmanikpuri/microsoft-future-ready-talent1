@@ -4,9 +4,9 @@
 
 ###  This web based bsiness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-## Project Link - https://vishalmanikpuri.github.io/microsoft-future-ready-talent1/
+### Project Link - https://vishalmanikpuri.github.io/microsoft-future-ready-talent1/
 
-## Demo Video - 
+### Demo Video - 
 
 ## Features and Functionalities
 
