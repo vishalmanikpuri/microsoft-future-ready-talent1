@@ -17,6 +17,8 @@
 
 ### SCREENSHOTS :camera_flash:
 
+![HOME PAGE](img/home.jpg)
+
 
 ### Industry :
 Ed-tech
