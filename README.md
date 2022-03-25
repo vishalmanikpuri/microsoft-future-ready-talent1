@@ -1,18 +1,28 @@
 # Microsoft-future-ready-talent-internship
 
-### This is 10 Page E-commerce Front End website design
+### This is a web based application developed for a business named PRIXIMA.
+
+###  This web based bsiness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
+## Project Link - https://vishalmanikpuri.github.io/microsoft-future-ready-talent1/
+
+## Demo Video - 
+
+## Features and Functionalities
 
 ### Web Technologies used: HTML, CSS, JS, Bootstrap
 
 ### IDE: VS-Code
 
-### Note: Bot is deployed on contact page
+
+### SCREENSHOTS:- 
+
 
 ### Industry :
-Lifestyle
+Ed-tech
 
 ### Project Title :
-E-Commerce Website with FAQ Bot
+Business Website
 
 ### Problem Statement/Opportunity :
 A Business company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have marketing challenges. This website can help you generate business, increase brand recall value, promote goodwill in front of customers and target audience, as well as deliver strong marketing messages. 
