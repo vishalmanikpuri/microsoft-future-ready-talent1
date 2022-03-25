@@ -15,7 +15,7 @@
 ### IDE: VS-Code
 
 
-### SCREENSHOTS:- 
+### SCREENSHOTS :camera_flash:
 
 
 ### Industry :
