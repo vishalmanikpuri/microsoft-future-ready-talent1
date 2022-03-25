@@ -17,7 +17,23 @@
 
 ### SCREENSHOTS :camera_flash:
 
+#### Home Page
 ![HOME PAGE](img/home.png)
+
+#### About
+![HOME PAGE](img/about.png)
+![HOME PAGE](img/num.png)
+![HOME PAGE](img/do.png)
+#### Projects
+![HOME PAGE](img/projects.png)
+#### Team
+![HOME PAGE](img/team.png)
+#### Testimonial
+![HOME PAGE](img/test.png)
+#### Blog
+![HOME PAGE](img/blog.png)
+#### Footer
+![HOME PAGE](img/footer.png)
 
 
 ### Industry :
