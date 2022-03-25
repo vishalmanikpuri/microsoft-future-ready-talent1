@@ -1,6 +1,6 @@
-# Microsoft-future-ready-talent-internship :star2:
+# :star2: Microsoft-future-ready-talent-internship :star2:
 
-### This is a web based application developed for a business named PRIXIMA.
+### This is a web based application developed for a business named "PRIXIMA".
 
 ####  This web based bsiness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
